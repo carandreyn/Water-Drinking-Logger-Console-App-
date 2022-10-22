@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Q95sAqs3vBt9h/bpwImSJCyxCUJ1zvWs4VwRnvoMBjA6ytl++iOAR2Dulrnlq1SYv4Ox3NLwnda41bZVZ1ejg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caran\\Desktop\\repos\\Habit Tracker Console App\\Habit Tracker Console App\\Habit Tracker Console App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caran\\.nuget\\packages\\microsoft.data.sqlite\\6.0.10\\microsoft.data.sqlite.6.0.10.nupkg.sha512",
+    "C:\\Users\\caran\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.10\\microsoft.data.sqlite.core.6.0.10.nupkg.sha512",
+    "C:\\Users\\caran\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\caran\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\caran\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\caran\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\caran\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
